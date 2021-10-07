@@ -34,6 +34,6 @@ Or even:
 *You might even want to emphasis some text,* **other times make it bold**
 
 ***
-[You can even link websites like this (It takes you to google)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[You can even link websites like this](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
